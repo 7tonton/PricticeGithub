@@ -1,3 +1,3 @@
 # PricticeGithub
-This repo is for practice of useing Git and Github
-this is my second day of practicing Git
+This project helps to get the host in spicefc network you are connected to
+by useing bash script can only oprate in linux
